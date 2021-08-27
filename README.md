@@ -4,6 +4,10 @@ Solución del [ejercicio propuesto](https://www.frontendmentor.io/challenges/tes
 
 ![Desktop preview](images/desktop-preview.jpg)
 
+## Resultado final del proyecto
+
+https://testimonials-grid-section-frontend-mentor.netlify.app/
+
 ## Extensiones y dependencias
 
 Para hacer modificaciones al proyecto se requiere de las siguientes extensiones en *Visual Studio Code*:
