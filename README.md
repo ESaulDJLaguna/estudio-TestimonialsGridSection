@@ -26,8 +26,8 @@ npm install -g purgecss
 1. Clonar el repositorio y acceder al proyecto:
 
 ~~~
-$ git clone https://github.com/ESaulDJLaguna/testimonials-grid-section.git
-$ cd testimonials-grid-section
+$ git clone https://github.com/ESaulDJLaguna/estudio-TestimonialsGridSection.git
+$ cd estudio-TestimonialsGridSection/
 ~~~
 
 2. Instalar las dependencias:
